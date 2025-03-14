@@ -25,12 +25,6 @@ Superstore sales analysis
 
 
 
-
-
-MARKET ANALYSIS DOCUMENTATION
-
-INTODUCTION: SUPERMARKET SALES ANALYSIS 
-
 ## PROJECT OVERVIEW 
 This is a python project on an imaginary supermarket called superstores.  This analysis project objective is to analyze the sales performance of different product line of the supermarket. we want to identify product trends and gain deeper understanding of the supermarket’s performance to answer critical questions and help the supermarket make profitable decisions.
 
