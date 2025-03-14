@@ -61,7 +61,8 @@ EDA  provides the ability to explore the supermarket data to answer critical que
 Superstores  = pd.read_excel("C:\\Users\\user\\Documents\\Analysis bank\\superstore_sales.xlsx")
 ```
 
-[Figure 2025-03-14 141038 (7)](https://github.com/user-attachments/assets/e7814a8c-07b9-448c-8a8b-556b41496ae3)
+
+![Sales Trend Across Branches](https://github.com/user-attachments/assets/d186c284-bdeb-48c5-9726-b23ae03e06f7)
 
 
 ## RESULT AND FIND!
