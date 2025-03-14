@@ -14,13 +14,13 @@ Superstore sales analysis
 
 - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 
-- [Data Analysis](#data-analysis)
+- [DATA ANALYSIS](#data-analysis)
 
 - [RESULTS AND FINDINGS](#result-and-findings)
 
 - [RECOMMENDATIONS](#recommendations)
 
-- [CONCLUSIONS](#conclusions)
+- [CONCLUSION](#conclusion)
 
 
 
