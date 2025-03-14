@@ -37,9 +37,10 @@ This is a python project on an imaginary supermarket called superstores.  This a
 
 ## DATA SOURCE 
 Superstores : the primary data set used for this analysis is the “superstore .csv” file containing all the information about each sale made by the supermarket.
+
 ## TOOLS
-1.Python
-2.Excel
+1. PYTHON
+2. EXCEL
 
 ## DATA CLEANING AND PREPARATION
 In the data preparation phase, the following tasks was carried out:
