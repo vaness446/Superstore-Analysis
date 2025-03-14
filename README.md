@@ -70,13 +70,18 @@ Superstores  = pd.read_excel("C:\\Users\\user\\Documents\\Analysis bank\\superst
 ![top products](https://github.com/user-attachments/assets/ee63b81c-46c2-4eb6-a22d-410f50ae89f5)
 
 
+
+
+
+
+
 ## RESULT AND FINDINGS
 
 1. From the above analysis sales are relatively low during the first quater of the year and then begin to rise in april and may,sales consistently peak in November and December ,indicating strong holiday shopping activities.
 
 2.Apple smart phones, full size was the most selling product contributing to 15% revenue.
 
-3. seasonal items experience high sales  volatility ,requiring better  stock management.
+3. standard shipping is preferred by 60% of customers
 
 ## RECOMMENDATIONS
 If current trends continues ,total sales are expected to increase by 15%  next year ,with apple smart phones contributing the most revenue
