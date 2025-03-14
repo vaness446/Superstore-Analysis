@@ -70,8 +70,7 @@ Superstores  = pd.read_excel("C:\\Users\\user\\Documents\\Analysis bank\\superst
 ![top products](https://github.com/user-attachments/assets/ee63b81c-46c2-4eb6-a22d-410f50ae89f5)
 
 
-
-
+![most preferred ship mode](https://github.com/user-attachments/assets/e76bb371-d8d5-45d7-96d8-e017877d693a)
 
 
 
