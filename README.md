@@ -6,6 +6,8 @@ Superstore sales analysis
 
 - [PROJECT OVERVIEW](#project-overview)
 
+ - [PROJECT OBJECTIVES](project-objective)
+
 - [DATA SOURCE](#data-source)
 
 - [TOOLS](#tools)
@@ -28,7 +30,7 @@ Superstore sales analysis
 ## PROJECT OVERVIEW 
 This is a python project on an imaginary supermarket called superstores.  This analysis project objective is to analyze the sales performance of different product line of the supermarket. we want to identify product trends and gain deeper understanding of the supermarket’s performance to answer critical questions and help the supermarket make profitable decisions.
 
-## PROJESCT OBJECTIVES  
+## PROJECT OBJECTIVES  
 1. what is the overall sales trend 
 2. which are the top ten products by sales
 3. what are the most selling products by quantity
@@ -65,10 +67,19 @@ Superstores  = pd.read_excel("C:\\Users\\user\\Documents\\Analysis bank\\superst
 ![Sales Trend Across Branches](https://github.com/user-attachments/assets/d186c284-bdeb-48c5-9726-b23ae03e06f7)
 
 
-## RESULT AND FIND!
-INGS
-1.Apple smart phones, full size was the most selling product contributing to 15% revenue.
-2. sales consistently peak in November and December ,indicating strong holiday shopping activities.
+## RESULT AND FINDINGS
+
+1. From the above analysis sales are relatively low during the fiest quater of the year and then begin to rise in april and may,sales consistently peak in November and December ,indicating strong holiday shopping activities.
+
+
+
+
+
+
+
+
+2.Apple smart phones, full size was the most selling product contributing to 15% revenue.
+
 3. seasonal items experience high sales  volatility ,requiring better  stock management.
 
 ## RECOMMENDATIONS
@@ -76,12 +87,19 @@ If current trends continues ,total sales are expected to increase by 15%  next y
 Expanding product variety in best selling categories can increase revenue 
 
 1.localizing marketing strategies for underperforming regions may improve conversion rates
+
 2.leverage social media influencers can boost brand awareness 
+
 3.improve product description and size guides to reduce incorrect purchases 
+
 4.enhance quality control to minimize returns due to damaged products
+
 5.invest in targeted marketing campaigns before peak sales periods
+
 5.implement a loyalty program to reward repeated purchases by customers
+
 6.offer exclusive promotions or early access sales to loyal customers 
+
 7.launch a mobile app to enhance customer engagement and retention.
 
 ## CONCLUSION
