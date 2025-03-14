@@ -61,7 +61,11 @@ EDA  provides the ability to explore the supermarket data to answer critical que
 Superstores  = pd.read_excel("C:\\Users\\user\\Documents\\Analysis bank\\superstore_sales.xlsx")
 ```
 
-## RESULT AND FINDINGS
+[Figure 2025-03-14 141038 (7)](https://github.com/user-attachments/assets/e7814a8c-07b9-448c-8a8b-556b41496ae3)
+
+
+## RESULT AND FIND!
+INGS
 1.Apple smart phones, full size was the most selling product contributing to 15% revenue.
 2. sales consistently peak in November and December ,indicating strong holiday shopping activities.
 3. seasonal items experience high sales  volatility ,requiring better  stock management.
