@@ -71,7 +71,7 @@ Superstores  = pd.read_excel("C:\\Users\\user\\Documents\\Analysis bank\\superst
 
 ## RESULT AND FINDINGS
 
-1. From the above analysis sales are relatively low during the fiest quater of the year and then begin to rise in april and may,sales consistently peak in November and December ,indicating strong holiday shopping activities.
+1. From the above analysis sales are relatively low during the first quater of the year and then begin to rise in april and may,sales consistently peak in November and December ,indicating strong holiday shopping activities.
 
 2.Apple smart phones, full size was the most selling product contributing to 15% revenue.
 
