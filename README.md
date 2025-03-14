@@ -56,7 +56,8 @@ EDA  provides the ability to explore the supermarket data to answer critical que
 2.what are the most selling products 
 3.what is the most preffered ship mode 
 4.what period are their peck sales 
-5.which product bring more profit to the supermarket      
+5.which product bring more profit to the supermarket 
+6. most satisfied customer by sales
  
 ## DATA ANALYSIS 
 ``` python
